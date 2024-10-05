@@ -1,7 +1,7 @@
 var typed = new Typed(".typewriter-text",
     {
         strings: [
-            "Data Analytics",
+            "Data Analyst",
 
             "Web Developer",
 
